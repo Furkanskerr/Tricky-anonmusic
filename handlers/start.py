@@ -39,9 +39,10 @@ async def start_(client: Client, message: Message):
                         "✧ ɪɴʟɪɴᴇ ✧", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "✧ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ✧", url="https://github.com/HeroX-xD/Tricky-anonmusic"
+                        "✧ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ✧", url="https://nolur.com"
                     )]
             ]
        ),
     )
+
 
